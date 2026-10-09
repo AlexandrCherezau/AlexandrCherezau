@@ -119,6 +119,7 @@
     <!-- Window: quiet dusk, layered hills and hand-drawn pines -->
     <rect x="174" y="21" width="48" height="35" fill="#22333b"/>
     <rect x="176" y="23" width="44" height="31" fill="#67828a"/>
+    <rect x="183" y="24" width="1" height="2" fill="#97a9a5"/><rect x="190" y="29" width="1" height="2" fill="#97a9a5"/><rect x="194" y="26" width="1" height="2" fill="#97a9a5"/><rect x="204" y="31" width="1" height="2" fill="#97a9a5"/><rect x="213" y="25" width="1" height="2" fill="#97a9a5"/><rect x="218" y="30" width="1" height="2" fill="#97a9a5"/>
     <path d="M176 39 H181 V37 H185 V34 H189 V32 H193 V34 H197 V36 H202 V38 H206 V35 H211 V33 H216 V35 H220 V54 H176Z" fill="#97a9a5"/>
     <path d="M176 44 H181 V42 H187 V40 H194 V42 H199 V44 H204 V42 H210 V40 H215 V42 H220 V54 H176Z" fill="#3e5c55"/>
     <rect x="181" y="35" width="2" height="3" fill="#22333b"/>
@@ -255,6 +256,7 @@
     <!-- Small drafting marks connect the room with the typography -->
     <rect x="15" y="79" width="12" height="1" fill="#97a9a5"/>
     <rect x="29" y="79" width="2" height="1" fill="#9daa83"/>
+    <rect x="204" y="55" width="1" height="2" fill="#97a9a5"/><rect x="205" y="52" width="1" height="2" fill="#97a9a5"/><rect x="166" y="53" width="1" height="1" fill="#b9c6ae"/><rect x="181" y="54" width="4" height="1" fill="#b9c6ae"/>
   </g>
   <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
     <text x="60" y="238" fill="#ebe5d6" font-size="16" letter-spacing=".3">Alexander Cherezau</text>
