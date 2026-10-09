@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
+<title id="title">Route 02 — Agent</title><desc id="desc">Select the agent route: a lavender pixel companion with mint eyes and an antenna.</desc>
+<path fill="#10121e" d="M8 0h304v8h8v164h-8v8H8v-8H0V8h8z"/><path fill="none" stroke="#514768" d="M12 4h296v8h8v156h-8v8H12v-8H4V12h8z"/>
+<path fill="#b7a5e5" d="M20 20h4v4h-4z"/><g font-family="monospace"><text x="32" y="27" fill="#b7a5e5" font-size="12" letter-spacing="2">02 / COLLABORATE</text><text x="20" y="88" fill="#f3ecdc" font-size="43" font-weight="bold" letter-spacing="-2">AGENT</text><text x="21" y="113" fill="#b6b0c8" font-size="11">THINK. BUILD. ITERATE.</text><text x="21" y="158" fill="#b7a5e5" font-size="11" letter-spacing="2">SELECT ROUTE</text></g>
+<path fill="#675780" d="M258 43h6v16h-6zM230 71h8v25h-8zM284 71h8v25h-8zM246 111h10v12h-10zM270 111h10v12h-10z"/><path fill="#efb77c" d="M255 35h12v12h-12z"/><path fill="#b7a5e5" d="M242 59h38v8h8v36h-8v8h-38v-8h-8V67h8z"/><path fill="#282438" d="M242 71h38v25h-38z"/><path fill="#9ce6c0" d="M248 78h8v8h-8zM268 78h8v8h-8z"/><path fill="#f3ecdc" d="M251 102h20v3h-20z"/><path fill="#b7a5e5" opacity=".5" d="M294 50h4v4h-4zM222 41h4v4h-4z"/>
+<path fill="none" stroke="#b7a5e5" stroke-width="2" d="M278 154h17m-6-6 6 6-6 6"/><path stroke="#302b40" d="M20 136h280"/>
+</svg>
