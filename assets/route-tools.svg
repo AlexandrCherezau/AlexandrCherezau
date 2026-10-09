@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="180" viewBox="0 0 320 180" role="img" aria-labelledby="title desc">
-<title id="title">Route 03 — Tools</title><desc id="desc">Select the tools route: a copper pixel desktop with a coral cursor and a tiny keyboard.</desc>
-<path fill="#10121e" d="M8 0h304v8h8v164h-8v8H8v-8H0V8h8z"/><path fill="none" stroke="#65503d" d="M12 4h296v8h8v156h-8v8H12v-8H4V12h8z"/>
-<path fill="#efb77c" d="M20 20h4v4h-4z"/><g font-family="monospace"><text x="32" y="27" fill="#efb77c" font-size="12" letter-spacing="2">03 / MAKE</text><text x="20" y="88" fill="#f3ecdc" font-size="43" font-weight="bold" letter-spacing="-2">TOOLS</text><text x="21" y="113" fill="#b6b0c8" font-size="11">SMALL TOOLS. BIG LEAPS.</text><text x="21" y="158" fill="#efb77c" font-size="11" letter-spacing="2">SELECT ROUTE</text></g>
-<path fill="#efb77c" d="M236 46h52v6h6v46h-6v6h-18v8h12v6h-40v-6h12v-8h-18v-6h-6V52h6z"/><path fill="#282438" d="M238 54h48v37h-48z"/><path fill="#9ce6c0" d="M244 60h16v3h-16zM244 67h26v3h-26z"/><path fill="#f29791" d="M272 70v16h5v-5h7z"/><path fill="#b78159" d="M232 120h60v7h-60z"/><path fill="#f3ecdc" d="M258 96h8v3h-8z"/><path fill="#efb77c" opacity=".5" d="M298 36h4v4h-4zM218 49h4v4h-4z"/>
-<path fill="none" stroke="#efb77c" stroke-width="2" d="M278 154h17m-6-6 6 6-6 6"/><path stroke="#3b302a" d="M20 136h280"/>
-</svg>
