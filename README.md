@@ -1,45 +1,37 @@
-<p align="center">
-  <img src="assets/ember.gif" alt="Ember particles" width="800" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/camera-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/camera-light.svg" />
+  <img src="assets/camera-light.svg" alt="CAMERA — Alexander Cherezau. Worlds, tools, agents." width="100%" />
+</picture>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
-    <img alt="Alexander — forging software with AI" src="assets/hero-dark.svg" width="800" />
-  </picture>
-</p>
+### Alexander Cherezau · camera
 
-```
-▸ stack    Java · Python · TypeScript · PHP · SQL
-▸ builds   Minecraft plugins · TG/Discord bots · REST APIs · parsers
-▸ ai       OpenAI / Claude — embeddings, agents, tool-use
-▸ mode     questions → architecture → code → ship
-```
+I build systems for game worlds, tools for AI agents, and automation that connects them.
+Java for the worlds. Python and TypeScript for the connections. Rust when the tool belongs on your desktop.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandrCherezau&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=f59e0b&icon_color=f59e0b&text_color=9ca3af&bg_color=0f1419&cache_seconds=86400" height="160" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandrCherezau&layout=compact&hide_border=true&langs_count=6&title_color=f59e0b&text_color=9ca3af&bg_color=0f1419&cache_seconds=86400" height="160" />
-</p>
+**Ideas → architecture → working software.**
 
-<br/>
+---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
-    <img alt="Contribution snake" src="assets/snake-dark.svg" width="100%" />
-  </picture>
-</p>
+### Selected builds
 
-<br/>
+**01 / AGENT INTERFACE**<br />
+[**tg-account-mcp ↗**](https://github.com/AlexandrCherezau/tg-account-mcp) — Put Telegram workflows within reach of MCP clients.<br />
+`Python` · `Telethon` · `MCP`
 
-```
-▸ open to turnkey gigs — plugins, bots, APIs, AI integrations
-▸ открыт к проектам под ключ — плагины, боты, API, AI-интеграции
-```
+**02 / REPOSITORY INTELLIGENCE**<br />
+[**RepoOracle ↗**](https://github.com/AlexandrCherezau/repooracle) — A GitHub link becomes an AI repository briefing in Telegram.<br />
+`TypeScript` · `grammY` · `Groq`
 
-<p align="center">
-  <a href="https://kwork.ru/user/sacha_ch"><img src="https://img.shields.io/badge/Kwork-f59e0b?style=flat-square&logo=freelancer&logoColor=white" alt="Kwork" /></a>
-</p>
+**03 / GAME SYSTEMS**<br />
+[**MeteoritePlugin ↗**](https://github.com/AlexandrCherezau/MeteoritePlugin) — Meteor strikes, impact effects, and loot events for Minecraft servers.<br />
+`Java` · `Paper` · `Gradle`
+
+**04 / DESKTOP WORKFLOW**<br />
+[**pigtools ↗**](https://github.com/AlexandrCherezau/pigtools) — A Cockpit Tools fork with workspace-preserving Windsurf restarts when switching accounts.<br />
+`Rust` · `Tauri` · `React`
+
+---
+
+**Have something to build?** Plugins, bots, APIs, AI integrations — [let’s talk on Kwork ↗](https://kwork.ru/user/sacha_ch).<br />
+Открыт к проектам под ключ: от идеи до работающего решения.

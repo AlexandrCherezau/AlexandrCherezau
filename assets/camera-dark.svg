@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="580" viewBox="0 0 1000 580" role="img" aria-labelledby="title desc">
+  <title id="title">CAMERA — Alexander Cherezau</title>
+  <desc id="desc">Worlds, tools, agents. A camera aperture floats above an isometric construction grid, connecting game systems, developer tools, and AI agents.</desc>
+  <rect width="1000" height="580" rx="8" fill="#111412"/>
+  <g fill="none" stroke="#343b32" stroke-width="1">
+    <path d="M50,48 H950 M50,520 H950"/>
+    <path d="M50,24 V34 M950,24 V34 M24,48 H34 M966,48 H976"/>
+    <path d="M50,554 V564 M950,554 V564 M24,520 H34 M966,520 H976"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#a7aaa0">
+    <text x="50" y="33">INDEPENDENT BUILDER</text>
+    <text x="950" y="33" text-anchor="end">SOFTWARE / SYSTEMS / CONNECTIONS</text>
+  </g>
+  <text x="47" y="158" fill="#f1f0e8" font-family="Arial, Helvetica, sans-serif" font-size="115" font-weight="900" letter-spacing="-7">CAMERA</text>
+  <g fill="#f1f0e8">
+    <text x="52" y="260" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="83" letter-spacing="-4">worlds.</text>
+    <text x="50" y="343" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="84" letter-spacing="-4">tools.</text>
+    <text x="50" y="426" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="84" letter-spacing="-4">agents.</text>
+  </g>
+  <path d="M357,321 H431 M414,304 L431,321 414,338" fill="none" stroke="#d9fa7c" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#a7aaa0" font-size="22">
+    <text x="54" y="476">Alexander Cherezau</text>
+  </g>
+  <g fill="none" stroke="#343b32" stroke-width="1">
+    <path d="M541,98 V482 M530,98 H552 M530,482 H552" stroke-dasharray="3 7"/>
+    <path d="M581,419 L755,339 930,419 755,499 Z" fill="#20271f"/>
+    <path d="M581,419 V435 L755,515 930,435 V419 L755,499 Z" fill="#181e17"/>
+    <path d="M580,419 L755,339 M580,419 L755,499" />
+    <path d="M623.75,439 L798.75,359 M623.75,399 L798.75,479" />
+    <path d="M667.5,459 L842.5,379 M667.5,379 L842.5,459" />
+    <path d="M711.25,479 L886.25,399 M711.25,359 L886.25,439" />
+    <path d="M755,499 L930,419 M755,339 L930,419" />
+    <path d="M755,499 V515"/>
+  </g>
+  <g stroke="#111412" stroke-width="2" stroke-linejoin="round">
+    <path d="M612,419 650,402 688,419 650,436 Z" fill="#93839e"/>
+    <path d="M612,419 V450 L650,467 V436 Z" fill="#93839e" opacity=".7"/>
+    <path d="M650,436 V467 L688,450 V419 Z" fill="#93839e" opacity=".45"/>
+    <path d="M812,447 842,433 872,447 842,461 Z" fill="#d9fa7c"/>
+    <path d="M812,447 V461 L842,475 V461 Z" fill="#d9fa7c" opacity=".65"/>
+    <path d="M842,461 V475 L872,461 V447 Z" fill="#d9fa7c" opacity=".4"/>
+  </g>
+  <path d="M755,299 V417" fill="none" stroke="#d9fa7c" stroke-width="1" stroke-dasharray="3 7" opacity=".6"/>
+  <ellipse cx="755" cy="417" rx="43" ry="19" fill="none" stroke="#d9fa7c" stroke-width="1" opacity=".6"/>
+  <g transform="translate(755 250)">
+    <circle r="166" fill="none" stroke="#343b32" stroke-width="1"/>
+    <circle r="141" fill="none" stroke="#343b32" stroke-width="1"/>
+    <g fill="none" stroke="#a7aaa0" stroke-width="1" opacity=".65">
+    <path d="M148,0 L155,0" />
+    <path d="M145.75,25.7 L148.71,26.22" />
+    <path d="M139.07,50.62 L141.89,51.65" />
+    <path d="M128.17,74 L134.23,77.5" />
+    <path d="M113.37,95.13 L115.67,97.06" />
+    <path d="M95.13,113.37 L97.06,115.67" />
+    <path d="M74,128.17 L77.5,134.23" />
+    <path d="M50.62,139.07 L51.65,141.89" />
+    <path d="M25.7,145.75 L26.22,148.71" />
+    <path d="M0,148 L0,155" />
+    <path d="M-25.7,145.75 L-26.22,148.71" />
+    <path d="M-50.62,139.07 L-51.65,141.89" />
+    <path d="M-74,128.17 L-77.5,134.23" />
+    <path d="M-95.13,113.37 L-97.06,115.67" />
+    <path d="M-113.37,95.13 L-115.67,97.06" />
+    <path d="M-128.17,74 L-134.23,77.5" />
+    <path d="M-139.07,50.62 L-141.89,51.65" />
+    <path d="M-145.75,25.7 L-148.71,26.22" />
+    <path d="M-148,0 L-155,0" />
+    <path d="M-145.75,-25.7 L-148.71,-26.22" />
+    <path d="M-139.07,-50.62 L-141.89,-51.65" />
+    <path d="M-128.17,-74 L-134.23,-77.5" />
+    <path d="M-113.37,-95.13 L-115.67,-97.06" />
+    <path d="M-95.13,-113.37 L-97.06,-115.67" />
+    <path d="M-74,-128.17 L-77.5,-134.23" />
+    <path d="M-50.62,-139.07 L-51.65,-141.89" />
+    <path d="M-25.7,-145.75 L-26.22,-148.71" />
+    <path d="M0,-148 L0,-155" />
+    <path d="M25.7,-145.75 L26.22,-148.71" />
+    <path d="M50.62,-139.07 L51.65,-141.89" />
+    <path d="M74,-128.17 L77.5,-134.23" />
+    <path d="M95.13,-113.37 L97.06,-115.67" />
+    <path d="M113.37,-95.13 L115.67,-97.06" />
+    <path d="M128.17,-74 L134.23,-77.5" />
+    <path d="M139.07,-50.62 L141.89,-51.65" />
+    <path d="M145.75,-25.7 L148.71,-26.22" />
+    </g>
+    <circle r="127" fill="#111412"/>
+    <polygon points="126,0 63,109.12 -21.5,37.24 21.5,37.24" fill="#d9fa7c" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="63,109.12 -63,109.12 -43,0 -21.5,37.24" fill="#c4e571" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="-63,109.12 -126,0 -21.5,-37.24 -43,0" fill="#acc864" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="-126,0 -63,-109.12 21.5,-37.24 -21.5,-37.24" fill="#8ca853" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="-63,-109.12 63,-109.12 43,0 21.5,-37.24" fill="#6e8644" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="63,-109.12 126,0 21.5,37.24 43,0" fill="#526736" stroke="#111412" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="40,0 20,34.64 -20,34.64 -40,0 -20,-34.64 20,-34.64" fill="#111412"/>
+    <path d="M-13,0 H13 M0,-13 V13" stroke="#f1f0e8" stroke-width="1.5"/>
+  </g>
+  <g fill="none" stroke="#a7aaa0" stroke-width="1">
+    <path d="M891,154 H921 V127 M618,346 H586 V368"/>
+    <circle cx="891" cy="154" r="3" fill="#d9fa7c" stroke="none"/>
+    <path d="M903,300 H950"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#a7aaa0" letter-spacing="1">
+    <text x="926" y="120" text-anchor="end">FOCUS / BUILD</text>
+    <text x="950" y="317" text-anchor="end">OPEN SYSTEMS</text>
+    <text x="588" y="391">FIELD 01</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1" fill="#a7aaa0">
+    <text x="50" y="553"><tspan fill="#d9fa7c">01</tspan> GAME WORLDS</text>
+    <text x="378" y="553"><tspan fill="#d9fa7c">02</tspan> DEVELOPER TOOLS</text>
+    <text x="750" y="553"><tspan fill="#d9fa7c">03</tspan> AGENT INTERFACES</text>
+  </g>
+</svg>
